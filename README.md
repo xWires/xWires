@@ -2,7 +2,7 @@
 
 I'm xWires, I code random things for fun.
 You can find a list of projects I've worked on here:
-https://tangledwires.xyz/projects/
+https://tangledwires.xyz/projects
 
 ---
 
