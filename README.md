@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm TangledWires, I code random things for fun.
+I'm xWires, I code random things for fun.
 You can find a list of projects I've worked on here:
 https://tangledwires.xyz/projects/
 
